@@ -1,0 +1,10 @@
+.textHead{
+    color: red;
+}
+.navbar{
+    background-color: lightgoldenrodyellow;
+}
+.navbar div{
+    display: flex;
+    column-gap: 15px;
+}
